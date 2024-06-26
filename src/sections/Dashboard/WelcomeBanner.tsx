@@ -104,12 +104,12 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to $JLO </h1>
         <p>
-          A fair, simple and decentralized $JLO casino on Solana.
+          CA: 2h8PLKnJzqYzwqakvHK53QC93PcRzfXGGNFPUA13WCtd
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://raydium.io/swap/?outputCurrency=2h8PLKnJzqYzwqakvHK53QC93PcRzfXGGNFPUA13WCtd&inputMint=2h8PLKnJzqYzwqakvHK53QC93PcRzfXGGNFPUA13WCtd&outputMint=sol')}>
-          🚀 BUY $JLO
+        <button onClick={() => window.open('https://www.dextools.io/app/en/solana/pair-explorer/4dEkqyJiwqC7j1vDGNTdeBXAipB9w3G1zhuuGd6VCu1v?t=1719367352329')}>
+          🚀 Dextools
         </button>
         <button onClick={() => window.open('https://x.com/jenniloponsol')}>
           👨‍💻 Twitter
