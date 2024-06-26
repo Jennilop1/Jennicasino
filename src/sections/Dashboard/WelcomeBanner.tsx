@@ -114,7 +114,7 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://x.com/jenniloponsol')}>
           👨‍💻 Twitter
         </button>
-        <button onClick={() => window.open('https://x.com/jenniloponsol')}>
+        <button onClick={() => window.open('https://t.me/+nM_v1_aGuLU1OWU8')}>
           💬 Telegram
         </button>
       </Buttons>
